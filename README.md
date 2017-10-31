@@ -1,0 +1,2 @@
+# MyAngularProject
+Angular JS init
